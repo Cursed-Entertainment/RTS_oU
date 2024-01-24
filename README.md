@@ -15,7 +15,7 @@ Real-Time Strategy (RTS) with a Command & Conquer Style UI
 - Unity 2017
 - Visual Studio 2017
 
-# Current State of The Project
+# Current state of the project
 
 - I aim to modernize the UI, Particle System, input system, utilize NavMesh, and update the MiniMap.
 - I will continue working in the 2017 version but plan to fork when ready for modern Unity.
