@@ -39,3 +39,8 @@ Real-Time Strategy (RTS) with a Command & Conquer Style UI
 ### Bonus Features
 - Featuring the finest textures from BingAI
 - Specially crafted speed trees exclusively designed for this project
+
+<a href="https://cursed-entertainment.itch.io/" target="_blank">
+    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
+        alt="CursedEntertainment Logo">
+</a>
