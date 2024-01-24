@@ -15,9 +15,6 @@ Real-Time Strategy (RTS) with a Command & Conquer Style UI
 - Unity 2017
 - Visual Studio 2017
 
-![Game Environment](https://github.com/CursedPrograms/RTS_oU/raw/main/DemoImages/MiniMap_Demo.png)
-![Game Environment](https://github.com/CursedPrograms/RTS_oU/raw/main/DemoImages/Tree_Demo.png)
-
 # Current State of The Project
 
 - I aim to modernize the UI, Particle System, input system, utilize NavMesh, and update the MiniMap.
@@ -42,5 +39,3 @@ Real-Time Strategy (RTS) with a Command & Conquer Style UI
 ### Bonus Features
 - Featuring the finest textures from BingAI
 - Specially crafted speed trees exclusively designed for this project
-
-![Game Environment](https://github.com/CursedPrograms/RTS_oU/raw/main/DemoImages/Demo.png)
