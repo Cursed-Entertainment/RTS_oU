@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1006f4e480828034bba1ed8513f536be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - occupiedBy: {instanceID: 0}
+  - drill: {fileID: 100038, guid: d891a961545da484899a16a0f4b7eff9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
