@@ -1,10 +1,10 @@
 <div align="center"> 
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/>  
 </div>
-
 <div align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
 </div>
+<br>
 
 # oU-RTS
 
