@@ -44,7 +44,7 @@ Real-Time Strategy (RTS) with a Command & Conquer Style UI
 Cursed Entertainment 2024
 </div>
 
-    <br>
+  
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
