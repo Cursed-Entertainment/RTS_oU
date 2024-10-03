@@ -40,11 +40,12 @@ Real-Time Strategy (RTS) with a Command & Conquer Style UI
 - Featuring the finest textures from BingAI
 - Specially crafted speed trees exclusively designed for this project
 
+<br>
 <div align="center">
 Cursed Entertainment 2024
 </div>
 
-  
+ <br> 
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
